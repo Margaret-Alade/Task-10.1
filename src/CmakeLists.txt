@@ -1,0 +1,4 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.27.7)
+ADD_EXECUTABLE(my_first_cmake_project main.cpp)
+
+

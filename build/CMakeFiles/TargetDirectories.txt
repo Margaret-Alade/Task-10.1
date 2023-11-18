@@ -1,0 +1,5 @@
+/Users/margaret/Desktop/student homework/my_first_cmake_project/build/CMakeFiles/edit_cache.dir
+/Users/margaret/Desktop/student homework/my_first_cmake_project/build/CMakeFiles/rebuild_cache.dir
+/Users/margaret/Desktop/student homework/my_first_cmake_project/build/src/CMakeFiles/my_first_cmake_project.dir
+/Users/margaret/Desktop/student homework/my_first_cmake_project/build/src/CMakeFiles/edit_cache.dir
+/Users/margaret/Desktop/student homework/my_first_cmake_project/build/src/CMakeFiles/rebuild_cache.dir
